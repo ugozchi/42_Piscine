@@ -274,7 +274,7 @@ Je m'arrête sur `print_params`, je n'avais malheureusement pas encore vu les ar
 
 | |
 | --- |
-| <img src="./exam01/img/note.png" /> |
+| <img src="./exam01/note.png" /> |
 
 ### Exam 02
 
@@ -290,4 +290,4 @@ Je m'arrête malheureusement sur `ft_range`, je n'ai pas eu le temps de finir ce
 
 | |
 | --- |
-| <img src="./finalexam/img/note.png" /> |
+| <img src="./examFinal/img/note.png" /> |
