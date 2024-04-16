@@ -266,7 +266,7 @@ Je me suis arrêté sur `putstr`, je devais recoder cette fonction mais je ne la
 
 | |
 | --- |
-| <img src="./exam00/img/note.png" /> |
+| <img src="./exam00/note.png" /> |
 
 ### Exam 01
 
@@ -282,7 +282,7 @@ Je me suis arrêté sur `atoi`, j'ai réussi à reproduire la fonction comme dem
 
 | |
 | --- |
-| <img src="./exam02/img/note.png" /> |
+| <img src="./exam02/note.png" /> |
 
 ### Exam final
 
@@ -290,4 +290,4 @@ Je m'arrête malheureusement sur `ft_range`, je n'ai pas eu le temps de finir ce
 
 | |
 | --- |
-| <img src="./examFinal/img/note.png" /> |
+| <img src="./examFinal/note.png" /> |
