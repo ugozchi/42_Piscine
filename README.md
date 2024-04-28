@@ -26,6 +26,7 @@ Si vous êtes entrain de passer la Piscine et qu'il vous viendrait à l'idée de
 ---
 
 ### [Shell 00](./shell00/)
+-> [Sujet](./shell00/fr.subject.pdf)
 
 Début de la piscine par du Shell !
 
@@ -43,6 +44,7 @@ Quelques difficultés car c'est une toute nouvelle façon d'appréhender sa mach
 ---
  
 ### [Shell 01](./shell01/)
+-> [Sujet](./shell01/fr.subject.pdf)
 
 Pas le favori de mes days, je l'ai trouvé assez peu utile au vu des exercices demandés là où Shell00 m'a semblé très pragmatique. Au début de piscine, les 2 premiers jours sont consacrés uniquement à du Shell, si vous voulez commencer le C avant le 3ème jour, vous devez passer Shell00 et Shell01. Je me suis donc lancé malgré ma non-motivation dans ce day.
 
@@ -59,6 +61,7 @@ Pas le favori de mes days, je l'ai trouvé assez peu utile au vu des exercices d
 --- 
 
 ### [C 00](./c00/)
+-> [Sujet](./c00/fr.subject.pdf/)
 
 Enfin du C !!! Les premiers exercices sont assez simples, les choses commencent à se corser à partir de `ft_print_comb`. `ft_putnbr` va être assez compliqué à ce stade car nous n'avons encore jamais vu les récursives mais il est plus qu'important de bien comprendre cet exercie qui reviendra par la suite. J'ai dans un premier temps mis de côté `ft_print_combn` car trop complexe en début de piscine mais je suis revenu dessus à la fin pour valider C00 à 100% !
 
@@ -75,6 +78,7 @@ Enfin du C !!! Les premiers exercices sont assez simples, les choses commencent 
 --- 
 
 ### [C 01](./c01/)
+-> [Sujet](./c00/fr.subject.pdf/)
 
 Introduction des pointeurs ! Quel calvaire au départ, les premiers exercices semblent très simples, mais ce qui est réellement compliqué est de bien comprendre ce qui se passe sur votre machine et ce que font réellement les pointeurs. C01 aura été le day où j'ai passé le plus de temps mais je pense qu'il est plus que nécessaire de passer beaucoup de temps dessus afin de bien assimiler cette notion clé du language C.
 
@@ -91,6 +95,7 @@ Introduction des pointeurs ! Quel calvaire au départ, les premiers exercices se
 --- 
 
 ### [C 02](./c02/)
+-> [Sujet](./c02/fr.subject.pdf/)
 
 Une des grosse difficulté de ce day est de faire la différence entre `ft_strcpy`, `ft_strncpy` et `ft_strlcpy`, puis de l'expliquer à tous ceux qui en avaient besoin.
 
@@ -109,6 +114,7 @@ Je n'ai pas fait `ft_print_memory` même si ce dernier est utile pour la suite.
 --- 
 
 ### [C 03](./c03/)
+-> [Sujet](./c03/fr.subject.pdf/)
 
 Traitement de chaines de caractères principalement.
 
@@ -127,6 +133,7 @@ Pas de difficulté majeure sauf peut-être `ft_strstr` mais se résout avec un p
 --- 
 
 ### [C 04](./c04/)
+-> [Sujet](./c04/fr.subject.pdf/)
 
 Les 3 premiers exercices sont des fonctions que nous avons déjà codées et qui devienne donc des formalités. Et vient enfin le fameux `ft_atoi`, qui fait peur à tant de monde ! Au final une fois la logique percée à jour rien de bien compliqué, la suite est plus coriace...
 
@@ -147,6 +154,7 @@ J'ai fait `ft_atoi_base` et il a été validé par mes correcteurs même si la m
 --- 
 
 ### [C 05](./c05/)
+-> [Sujet](./c05/fr.subject.pdf/)
 
 Un peu de mathématiques dans ce day, que j'ai beaucoup aimé. Pour la première fois lors d'un passage à la moulinette je vois un refus de sa part avec comme justification "Time out". C'est la première fois et ce grâce à `ft_fibonacci`, `ft_is_prime` et `ft_find_next_prime` que je comprends l'intérêt d'optimiser mon code.
 
@@ -165,6 +173,7 @@ Ce day est souvent sauté par les piscineux alors même qu'il est très utile. L
 --- 
 
 ### [C 06](./c06/)
+-> [Sujet](./c06/fr.subject.pdf/)
 
 Introduction aux paramètres, et c'est ici que beaucoup de choses prennent plus de sens ! Ce day fait beaucoup de bien au moral car assez facile et rapide si les days précédents ont été fait sérieusement.
 
@@ -181,6 +190,7 @@ Introduction aux paramètres, et c'est ici que beaucoup de choses prennent plus 
 --- 
 
 ### [C 07](./c07/)
+-> [Sujet](./c07/fr.subject.pdf/)
 
 Introduction à `malloc`, ce même `malloc` qui nous coûtent à mon groupe de rush01 et moi du 100/100. 
 
@@ -201,6 +211,7 @@ Au final `malloc` va nous en apprendre beaucoup sur l'allocation de mémoire et 
 --- 
 
 ### [C 08](./c08/)
+-> [Sujet](./c08/fr.subject.pdf/)
 
 Introduction aux fichiers d'en-tête (header). Et ici beaucoup de choses prennent du sens, qu'est-ce qui peut donc composer ces fichiers .h que l'on introduit en haut de nos codes lorsqu'on veut utiliser des fonctions comme `write`, `malloc` ou `free`.
 
@@ -217,6 +228,7 @@ Introduction aux fichiers d'en-tête (header). Et ici beaucoup de choses prennen
 --- 
 
 ### [C 09](./c09/)
+-> [Sujet](./c09/fr.subject.pdf/)
 
 Introduction à `Make` et aux fichiers `Makefile` ainsi qu'à la création de librairie.
 
@@ -233,6 +245,7 @@ Introduction à `Make` et aux fichiers `Makefile` ainsi qu'à la création de li
 --- 
 
 ### [Rush 00](./rush00/)
+-> [Sujet](./rush00/fr.subject.pdf/)
 
 Premier rush de la piscine, plutôt simple au premier abord. L'algorithme a été trouvé très rapidement, plusieurs versions du code ont vu le jour pour aboutir à la version finale rendue qui était la plus facile à comprendre au vu de notre niveau de programmation à ce moment-là. Malheureusement l'oublie de la protection sur INT_MAX nous coûtent le 100/100 et même le 125/100 car tous les bonus avaient été réalisés.
 
@@ -247,6 +260,7 @@ Premier rush de la piscine, plutôt simple au premier abord. L'algorithme a ét�
 --- 
 
 ### [Rush 01](./rush01/)
+-> [Sujet](./rush01/fr.subject.pdf/)
 
 Deuxième rush, le premier semblait faisable et plutôt simple. Celui-ci était une autre paire de manches, il nous aura fallu une demi-journée entière pour enfin commencer à avoir un début de piste. Au final, nous faisons partie des rares groupes à avoir sortie un code fonctionnel répondant au sujet. Malheureusement tous nos mallocs n'ont pas été free, en plus nous avons utilisé une variable globales interdite qui nous coûte notre réussite de peu. c'est donc avec un 0/100 que nous ressortons mais en ayant appris beaucoup.
 
