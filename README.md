@@ -38,8 +38,6 @@ Quelques difficultés car c'est une toute nouvelle façon d'appréhender sa mach
 | | |
 | --- | --- |
 | Moulinette | <img src="./shell00/img/moulinette.png" /> |
-| Correcteur 1 | <img src="./shell00/img/com1.png" /> |
-| Correcteur 2 | <img src="./shell00/img/com2.png" /> |
 
 ---
  
@@ -55,8 +53,6 @@ Pas le favori de mes days, je l'ai trouvé assez peu utile au vu des exercices d
 | | |
 | --- | --- |
 | Moulinette | <img src="./shell01/img/moulinette.png" /> |
-| Correcteur 1 | <img src="./shell01/img/com1.png" /> |
-| Correcteur 2 | <img src="./shell01/img/com2.png" /> |
 
 --- 
 
@@ -72,8 +68,6 @@ Enfin du C !!! Les premiers exercices sont assez simples, les choses commencent 
 | | |
 | --- | --- |
 | Moulinette | <img src="./c00/img/moulinette.png" /> |
-| Correcteur 1 | <img src="./c00/img/com1.png" /> |
-| Correcteur 2 | <img src="./c00/img/com2.png" /> |
 
 --- 
 
@@ -89,8 +83,6 @@ Introduction des pointeurs ! Quel calvaire au départ, les premiers exercices se
 | | |
 | --- | --- |
 | Moulinette | <img src="./c01/img/moulinette.png" /> |
-| Correcteur 1 | <img src="./c01/img/com1.png" /> |
-| Correcteur 2 | <img src="./c01/img/com2.png" /> |
 
 --- 
 
@@ -108,8 +100,6 @@ Je n'ai pas fait `ft_print_memory` même si ce dernier est utile pour la suite.
 | | |
 | --- | --- |
 | Moulinette | <img src="./c02/img/moulinette.png" /> |
-| Correcteur 1 | <img src="./c02/img/com1.png" /> |
-| Correcteur 2 | <img src="./c02/img/com2.png" /> |
 
 --- 
 
@@ -127,8 +117,6 @@ Pas de difficulté majeure sauf peut-être `ft_strstr` mais se résout avec un p
 | | |
 | --- | --- |
 | Moulinette | <img src="./c03/img/moulinette.png" /> |
-| Correcteur 1 | <img src="./c03/img/com1.png" /> |
-| Correcteur 2 | <img src="./c03/img/com2.png" /> |
 
 --- 
 
@@ -148,8 +136,6 @@ J'ai fait `ft_atoi_base` et il a été validé par mes correcteurs même si la m
 | | |
 | --- | --- |
 | Moulinette | <img src="./c04/img/moulinette.png" /> |
-| Correcteur 1 | <img src="./c04/img/com1.png" /> |
-| Correcteur 2 | <img src="./c04/img/com2.png" /> |
 
 --- 
 
@@ -167,8 +153,6 @@ Ce day est souvent sauté par les piscineux alors même qu'il est très utile. L
 | | |
 | --- | --- |
 | Moulinette | <img src="./c05/img/moulinette.png" /> |
-| Correcteur 1 | <img src="./c05/img/com1.png" /> |
-| Correcteur 2 | <img src="./c05/img/com2.png" /> |
 
 --- 
 
@@ -184,8 +168,6 @@ Introduction aux paramètres, et c'est ici que beaucoup de choses prennent plus 
 | | |
 | --- | --- |
 | Moulinette | <img src="./c06/img/moulinette.png" /> |
-| Correcteur 1 | <img src="./c06/img/com1.png" /> |
-| Correcteur 2 | <img src="./c06/img/com2.png" /> |
 
 --- 
 
@@ -205,8 +187,6 @@ Au final `malloc` va nous en apprendre beaucoup sur l'allocation de mémoire et 
 | | |
 | --- | --- |
 | Moulinette | <img src="./c07/img/moulinette.png" /> |
-| Correcteur 1 | <img src="./c07/img/com1.png" /> |
-| Correcteur 2 | <img src="./c07/img/com2.png" /> |
 
 --- 
 
@@ -222,8 +202,6 @@ Introduction aux fichiers d'en-tête (header). Et ici beaucoup de choses prennen
 | | |
 | --- | --- |
 | Moulinette | <img src="./c08/img/moulinette.png" /> |
-| Correcteur 1 | <img src="./c08/img/com1.png" /> |
-| Correcteur 2 | <img src="./c08/img/com2.png" /> |
 
 --- 
 
@@ -239,8 +217,6 @@ Introduction à `Make` et aux fichiers `Makefile` ainsi qu'à la création de li
 | | |
 | --- | --- |
 | Moulinette | <img src="./c09/img/moulinette.png" /> |
-| Correcteur 1 | <img src="./c09/img/com1.png" /> |
-| Correcteur 2 | <img src="./c09/img/com2.png" /> |
 
 --- 
 
