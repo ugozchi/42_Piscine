@@ -2,9 +2,6 @@
 
 Épreuve de sélection de l'école [42 Paris](https://42.fr/) nommée "la Piscine" qui consiste à résoudre de nombreux exercices de programmation en Shell et en language C.
 
-Mon temps total de connexion durant cette piscine a dépassé les Xh.
-
-<img src="./360h.png" />
 
 J'ai fini au niveau 8.97.
 
