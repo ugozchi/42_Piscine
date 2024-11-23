@@ -11,7 +11,7 @@ J'ai fini au niveau 8.97.
 
 L'ensemble de ces exercices ont été réalisés durant le mois de mars 2024.
 
-Après un mois d'acharnement, je suis fier d'avoir j'ai finalement été sélectionné pour la rentrée de mai 2024.
+Après un mois d'acharnement, je suis fier d'avoir été sélectionné pour la rentrée de mai 2024.
 
 Ce dépôt a pour unique but de montrer mon évolution en programmation et de garder une trace personnelle durant tous mon cursus et au-delà.
 
